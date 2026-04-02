@@ -1,0 +1,22 @@
+# Ignore datasets
+data/
+*/data/
+
+# Ignore outputs
+outputs/
+*/outputs/
+
+# Ignore models
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
